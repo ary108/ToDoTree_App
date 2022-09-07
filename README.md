@@ -1,4 +1,4 @@
-# todotree2
+# ToDoTree the mobile app
 
 A new Flutter application.
 
